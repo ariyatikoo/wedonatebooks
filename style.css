@@ -97,3 +97,17 @@ footer {
   color: #888;
 }
 }
+
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block; /* changed from block to work with text-align center */
+}
+
+/* Image Container */
+.image-container {
+  text-align: center;
+}
+
